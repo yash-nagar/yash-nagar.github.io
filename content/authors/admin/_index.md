@@ -1,6 +1,7 @@
 ---
 title: Yash Nagar
 role: Software developer and data scientist
+avatar_filename: yash-nagar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
