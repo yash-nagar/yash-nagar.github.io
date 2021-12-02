@@ -1,3 +1,4 @@
+---
 widget: experience
 
 # This file represents a page section.
@@ -23,24 +24,23 @@ experience:
     company: Solandeo GmbH
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Berlin, Germany
+    date_start: '2017-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing responsive web applications using Python and Django.
+        * Frontend development in Angular
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Scientist (intern)
+    company: Wikimedia Deutschland e.V.
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Berlin, Germany
+    date_start: '2016-06-01'
+    date_end: '2016-11-31'
+    description: Seeding the Wikidata knowledge-base with Mathematical Formulae from Wikipedia.
 
 design:
   columns: '2'
