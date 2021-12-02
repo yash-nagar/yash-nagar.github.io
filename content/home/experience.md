@@ -29,9 +29,6 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing responsive web applications using Python and Django.
-        * Frontend development in Angular
-        
   - title: Data Scientist (intern)
     company: Wikimedia Deutschland e.V.
     company_url: ''
