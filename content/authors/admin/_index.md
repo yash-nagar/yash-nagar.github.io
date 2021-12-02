@@ -27,7 +27,7 @@ education:
       year: 2017
     - course: BE. Computer science engineering
       institution: Rajiv gandhi prodyogiki vishwavidyalaya
-      year: 2007
+      year: 2012
 email: ""
 superuser: true
 highlight_name: true
