@@ -11,22 +11,15 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:yash.nagar1991@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yash-nagar
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/yash-nagar-aa797b129
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Solandeo GmbH
 education:
   courses:
     - course: M.Sc. Information engineering
