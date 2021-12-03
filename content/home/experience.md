@@ -36,7 +36,7 @@ experience:
         * Frontend development using Angular
         
   - title: 'Professor'
-    company: 'University X'
+    company: 'Wikimedia Deutschland e.V.'
     company_url: ''
     location: 'California'
     date_start: '2016-01-01'
