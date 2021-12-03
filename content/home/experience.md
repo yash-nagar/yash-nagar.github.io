@@ -38,9 +38,9 @@ experience:
   - title: 'Data Scientist (intern)'
     company: 'Wikimedia Deutschland e.V.'
     company_url: ''
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: 'Berlin'
+    date_start: '2016-06-01'
+    date_end: '2016-11-31'
     description: 'Taught electronic engineering and researched semiconductor physics.'
 
 design:
