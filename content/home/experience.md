@@ -40,8 +40,8 @@ experience:
     company_url: ''
     location: 'Berlin'
     date_start: '2016-06-01'
-    date_end: '2016-11-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+    date_end: '2016-11-30'
+    description: 'Seeding the Wikidata knowledge-base with Mathematical Formulae from Wikipedia.'
 
 design:
   columns: '2'
