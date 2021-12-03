@@ -23,27 +23,18 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://coursera.org/share/49f743ecd9423b571cdbff6850d66cbc
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
 - certificate_url: https://coursera.org/share/cd8ee2e8ed2983a6c464f838212e76ec
   date_end: ""
   date_start: "2021-10-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Applied Plotting, Charting & Data Representation
-in Python
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  title: Applied Plotting, Charting & Data Representation in Python
+  url: ""
 - certificate_url: https://coursera.org/share/49f743ecd9423b571cdbff6850d66cbc
   date_end: ""
   date_start: "2021-09-01"
-  description: ""
+  description: 
   organization: Coursera
   organization_url: https://www.coursera.org
   title: 'Introduction to Data Science in Python'
