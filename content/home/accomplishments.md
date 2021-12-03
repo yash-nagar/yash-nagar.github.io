@@ -31,13 +31,14 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: https://coursera.org/share/49f743ecd9423b571cdbff6850d66cbc
+- certificate_url: https://coursera.org/share/cd8ee2e8ed2983a6c464f838212e76ec
   date_end: ""
-  date_start: "2021-09-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2021-10-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Applied Plotting, Charting & Data Representation
+in Python
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://coursera.org/share/49f743ecd9423b571cdbff6850d66cbc
   date_end: ""
