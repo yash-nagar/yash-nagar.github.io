@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: achievements
-    url: '#achievements'
+  - name: accomplishments
+    url: '#accomplishments'
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
