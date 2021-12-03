@@ -35,14 +35,13 @@ experience:
         * Developing responsive web applications using Python and Django.
         * Frontend development using Angular
         
-  - title: Data Scientist (intern)
-    company: Wikimedia Deutschland e.V
+  - title: 'Professor'
+    company: 'University X'
     company_url: ''
-    company_logo:
-    location: Berlin
-    date_start: '2016-06-01'
-    date_end: '2016-11-31'
-    description: Seeding the Wikidata knowledge-base with Mathematical Formulae from Wikipedia
+    location: 'California'
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: 'Taught electronic engineering and researched semiconductor physics.'
 
 design:
   columns: '2'
