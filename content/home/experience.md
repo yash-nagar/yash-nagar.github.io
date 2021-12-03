@@ -35,7 +35,7 @@ experience:
         * Developing responsive web applications using Python and Django.
         * Frontend development using Angular
         
-  - title: 'Professor'
+  - title: 'Data Scientist (intern)'
     company: 'Wikimedia Deutschland e.V.'
     company_url: ''
     location: 'California'
