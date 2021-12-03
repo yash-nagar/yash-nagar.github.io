@@ -26,15 +26,14 @@ experience:
     company: Solandeo GmbH
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Berlin
     date_start: '2017-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing responsive web applications using Python and Django.
+        * Frontend development using Angular
         
   - title: Professor of Semiconductor Physics
     company: University X
