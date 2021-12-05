@@ -30,7 +30,7 @@ item:
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Applied Plotting, Charting & Data Representation in Python
-  url: ""
+  url: "https://www.coursera.org/learn/python-plotting"
 - certificate_url: https://coursera.org/share/49f743ecd9423b571cdbff6850d66cbc
   date_end: ""
   date_start: "2021-09-01"
@@ -38,7 +38,7 @@ item:
   organization: Coursera
   organization_url: https://www.coursera.org
   title: 'Introduction to Data Science in Python'
-  url: ""
+  url: "https://www.coursera.org/learn/python-data-analysis"
 
 design:
   columns: '2' 
