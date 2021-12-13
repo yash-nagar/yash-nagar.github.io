@@ -18,6 +18,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/yash-nagar-aa797b129
+  - display:
+      header: false
+    icon_pack: ai
+    icon: cv
+    link: uploads/Yash-Nagar.pdf
 organizations:
   - name: Solandeo GmbH
 education:
