@@ -22,7 +22,7 @@ social:
       header: false
     icon_pack: ai
     icon: cv
-    link: uploads/Yash-Nagar.pdf
+    link: '{{< staticref "uploads/Yash-Nagar.pdf" "newtab" >}}{{< /staticref >}}.'
 organizations:
   - name: Solandeo GmbH
 education:
