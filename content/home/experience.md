@@ -37,6 +37,7 @@ experience:
         
   - title: 'Data Scientist (intern)'
     company: 'Wikimedia Deutschland e.V.'
+    link: uploads/Wikimedia-recommendation.pdf
     company_url: uploads/Wikimedia-recommendation.pdf
     location: 'Berlin'
     date_start: '2016-06-01'
