@@ -25,7 +25,7 @@ experience:
   - title: Software developer
     company: Solandeo GmbH
     company_url: ''
-    company_logo:
+    company_logo: uploads/solandeo.png
     location: Berlin
     date_start: '2017-09-01'
     date_end: ''
@@ -37,8 +37,9 @@ experience:
         
   - title: 'Data Scientist (intern)'
     company: 'Wikimedia Deutschland e.V.'
-    link: uploads/Wikimedia-recommendation.pdf
+    certificate_url: uploads/Wikimedia-recommendation.pdf
     company_url: uploads/Wikimedia-recommendation.pdf
+    company_logo: uploads/Wikimedia-logo.svg
     location: 'Berlin'
     date_start: '2016-06-01'
     date_end: '2016-11-30'
