@@ -25,7 +25,7 @@ experience:
   - title: Software developer
     company: Solandeo GmbH
     company_url: ''
-    company_logo: uploads/solandeo.png
+    company_logo: solandeo
     location: Berlin
     date_start: '2017-09-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
     company: 'Wikimedia Deutschland e.V.'
     certificate_url: uploads/Wikimedia-recommendation.pdf
     company_url: uploads/Wikimedia-recommendation.pdf
-    company_logo: uploads/Wikimedia-logo.svg
+    company_logo: Wikimedia-logo
     location: 'Berlin'
     date_start: '2016-06-01'
     date_end: '2016-11-30'
